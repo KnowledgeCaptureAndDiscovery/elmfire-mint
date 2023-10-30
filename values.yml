@@ -1,0 +1,7 @@
+fuel_file:
+ class: File
+ location: ./06-landscape-optimization/fuel.tar 
+wind_file:
+ class: File
+ location: ./06-landscape-optimization/wx.csv 
+simulation_tstop: 20000
